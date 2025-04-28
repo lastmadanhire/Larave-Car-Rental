@@ -7,6 +7,18 @@ Car Rental App is a full-stack project built with Laravel (Sanctum) for the back
 ### Live link
 
 - **[Car Rental](https://rentals.cedroagric.com//)**
+
+## 🔐 Demo Credentials
+
+You can use the following test accounts to log in and explore the application:
+
+| Role       | Email               | Password  |
+|------------|---------------------|-----------|
+| Admin      | admin@example.com   | password  |
+| Sales Rep  | sales@example.com   | password  |
+| Customer   | user@example.com    | password  |
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 ## About Laravel
 
